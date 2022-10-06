@@ -16,4 +16,24 @@
     color: white;
 }
 
+.nav-link:hover {
+    color: white;
+}
 
+.col-2 {
+    width: 100%;
+}
+
+.row-cols-1{
+    background-color: rgb(43, 43, 43);
+    height: 100vh;
+
+    .col-2 a {
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+    }
+}
+
+.navbar-collapse {
+    margin-left: 50px;
+}
