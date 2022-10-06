@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/N1XIL9/U2-W6-D4.SASS_II#readme",
   "dependencies": {
-    "bootstrap": "^5.2.2"
+    "bootstrap": "^5.2.2",
+    "sass-google-fonts": "^1.0.1"
   }
 }

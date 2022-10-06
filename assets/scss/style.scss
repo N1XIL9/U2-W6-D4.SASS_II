@@ -1,0 +1,19 @@
+@import "./variables";
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../../node_modules/sass-google-fonts/src/GoogleFonts.scss";
+@import "./mixin";
+
+
+.navbar{
+    @include bgColor;
+}
+
+.img-header {
+    @include imgSize;
+}
+
+.nav-link {
+    color: white;
+}
+
+
